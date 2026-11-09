@@ -1,0 +1,413 @@
+seller_id,signup_date,segment,sales_platform,emirate,plan,shelves_rented,monthly_orders,avg_order_value_aed,cod_share,return_rate,on_time_dispatch_rate,support_tickets_month,value_added_jobs_month,dashboard_logins_month,cod_remittance_days,satisfaction_score,monthly_revenue_aed,churned
+S0279,30/08/2025,Home & Gifting,Instagram,Abu dhabi,Growth,2,258,153.0,0.45,0.067,0.925,2,2,12,2.6,4.2,"AED 3,123",N
+S0383,22/03/2025,Home & Gifting,TikTok,Dubai,Growth,3,415,101.0,0.81,0.06,0.992,6,4,3,1.9,7.0,"AED 5,707",0
+S0369,26/10/2025,Modest Fashion,Instagram,Ajman,Growth,2,263,166.0,0.5,0.136,0.966,3,3,12,,6.9,2885.0,No
+S0263,2026-06-05,Modest Fashion,Instagram,Dubai,Growth,2,398,,0.72,0.144,0.902,6,0,18,3.7,2.3,"AED 4,660",Yes
+S0298,08/11/2025,Home & Gifting,TikTok,Ajman,Starter,1,60,166.0,0.81,0.022,0.964,1,3,14,4.7,7.4,1021.0,0
+S0328,11/09/2026,Accessories & Gadgets,Instagram,Sharjah,Growth,4,249,94.0,0.71,0.049,0.935,3,2,8,2.5,5.1,3749.0,No
+S0235,2026-08-28,Packaged Food,Instagram,Dubai,Growth,4,282,74.0,0.53,0.0,0.908,2,3,10,2.5,3.9,"AED 3,867",0
+S0238,2025-04-12,Home & Gifting,WhatsApp,Dubai,Growth,2,330,100.0,0.48,0.052,1.0,2,3,3,3.4,7.4,4382.0,0
+S0262,26/03/2025,Home & Gifting,Instagram + TikTok,Sharjah,Growth,4,287,128.0,0.38,0.024,0.978,2,4,9,3.8,7.2,"AED 4,633",0
+S0372,2026-09-21,Beauty & Fragrance,TikTok,Sharjah,Growth,4,199,177.0,0.72,0.052,0.939,5,0,16,2.1,5.5,2782.0,0
+S0249,11/11/2024,Modest Fashion,WhatsApp,Ajman,Growth,3,246,224.0,0.45,0.142,0.988,10,3,4,3.7,5.1,"AED 3,170",N
+S0072,2026-07-31,Modest Fashion,TikTok,Dubai,Starter,1,101,268.0,0.8,0.135,0.945,2,1,0,1.5,5.4,1076.0,No
+S0100,2024-11-05,Packaged Food,TikTok,Dubai,Growth,3,389,91.0,0.6,0.011,0.988,3,2,16,4.1,6.5,"AED 3,782",0
+S0225,23/11/2024,Modest Fashion,Instagram + TikTok,Sharjah,Growth,4,266,255.0,0.45,0.128,0.876,8,0,20,3.3,1.4,"AED 3,288",1
+S0171,2025-02-07,Modest Fashion,Instagram,Dubai,Growth,3,437,287.0,0.54,0.131,0.993,2,1,21,3.6,5.5,4414.0,No
+S0200,07/12/2025,Modest Fashion,TikTok,Dubai,Growth,4,214,198.0,0.76,0.108,0.967,7,2,8,6.3,,"AED 3,106",yes
+S0063,16/10/2025,Accessories & Gadgets,Instagram + TikTok,Sharjah,Growth,3,340,88.0,0.74,0.081,0.968,3,1,10,2.1,7.0,3869.0,0
+S0237,18/01/2026,Modest Fashion,WhatsApp,Dubai,Growth,3,306,297.0,0.58,0.104,0.984,1,2,14,4.4,6.8,3790.0,0
+S0343,18/09/2025,Home & Gifting,Instagram + TikTok,Abu dhabi,Growth,4,283,84.0,0.61,0.049,0.923,2,2,11,2.6,5.7,"AED 3,882",N
+S0292,2025-07-07,Beauty & Fragrance,Instagram+TikTok,Sharjah,Pro,9,721,,0.51,0.023,0.987,2,1,11,2.7,6.7,8132.0,N
+S0141,10/03/2026,Modest Fashion,Instagram + TikTok,Dubai,Starter,1,145,308.0,0.74,0.097,0.928,7,0,23,3.3,4.4,"AED 1,791",1
+S0399,20/05/2025,Modest Fashion,WhatsApp,Dubai,Starter,1,-534,152.0,0.22,0.104,0.96,2,2,5,2.0,6.1,1685.0,N
+S0278,13/12/2024,Modest Fashion,TikTok,Dubai,Pro,7,629,207.0,0.75,0.098,0.904,7,1,9,1.4,4.3,9153.0,0
+S0044,04/04/2026,Modest Fashion,Instagram,,Growth,4,151,249.0,0.31,0.136,0.856,6,3,13,2.6,3.0,2870.0,yes
+S0251,2024-12-23,Accessories & Gadgets,Instagram,Sharjah,Growth,3,363,60.0,0.62,0.053,0.962,3,1,8,2.4,7.3,4255.0,0
+S0162,23/01/2026,Packaged Food,Instagram,Dubai,Starter,1,26,71.0,0.62,0.007,0.948,1,0,7,4.2,4.9,AED 549,0
+S0154,23/05/2026,Accessories & Gadgets,Instagram + TikTok,Dubai,Starter,1,45,113.0,0.65,0.034,0.952,1,1,5,3.8,3.6,787.0,0
+S0337,08/08/2025,Beauty & Fragrance,Instagram,Dubai,Growth,4,177,155.0,0.66,0.046,0.927,7,1,17,2.4,4.1,2935.0,Y
+S0213,2026-05-27,Beauty & Fragrance,Instagram + TikTok,Dubai,Growth,3,290,166.0,0.86,0.028,0.882,1,0,11,3.6,3.8,"AED 3,924",N
+S0051,2025-01-12,Beauty & Fragrance,Instagram,Dubai,Growth,3,203,169.0,0.47,0.031,0.88,2,0,12,1.8,4.5,2341.0,0
+S0139,04/09/2025,home and gifting,Instagram,Abu Dhabi,Growth,2,446,137.0,0.55,0.034,0.94,2,2,10,2.7,7.3,5265.0,0
+S0326,2025-07-24,Accessories & Gadgets,Instagram,Sharjah,GROWTH ,2,435,123.0,0.65,0.095,0.905,3,0,10,3.6,4.8,"AED 4,923",N
+S0053,2026-07-28,Home & Gifting,WhatsApp,Ajman,Starter,1,61,163.0,0.57,0.071,0.997,2,2,18,3.3,7.4,AED 948,0
+S0341,2026-05-28,Beauty & Fragrance,Instagram,Dubai,Starter,1,89,260.0,0.42,0.052,0.898,2,1,13,4.2,2.5,"AED 1,209",1
+S0151,2025-06-10,Home & Gifting,TikTok,Dubai,Growth,3,279,135.0,0.57,0.051,0.996,5,4,23,3.0,,3868.0,0
+S0248,26/03/2025,modest fashion,TikTok,Sharjah,Growth,3,323,275.0,0.73,0.114,0.874,4,1,1,,4.0,"AED 3,788",0
+S0289,25/06/2025,Accessories & Gadgets,WhatsApp,Dubai,Growth,3,229,,0.71,0.065,0.904,2,1,0,3.5,3.5,3119.0,0
+S0091,2026-01-12,Beauty & Fragrance,WhatsApp,Dubai,GROWTH ,2,182,158.0,0.58,0.033,0.917,0,0,4,3.5,2.9,1985.0,0
+S0251,2024-12-23,Accessories & Gadgets,Instagram,Sharjah,Growth,3,363,60.0,0.62,0.053,0.962,3,1,8,2.4,7.3,4255.0,0
+S0387,08/03/2026,Accessories & Gadgets,Instagram + TikTok,Dubai,Starter,1,144,97.0,0.79,0.075,0.9,3,2,6,4.4,3.2,"AED 2,431",1
+S0156,06/07/2026,Accessories & Gadgets,Instagram,Abu Dhabi,Growth,3,251,105.0,0.59,0.065,0.95,4,1,9,3.3,6.4,4027.0,N
+S0192,04/12/2025,Beauty & Fragrance,Instagram,Sharjah,Starter,1,135,174.0,0.76,0.057,0.994,3,1,18,3.0,7.0,1540.0,0
+S0076,07/11/2025,Modest Fashion,Instagram,Abu Dhabi,Growth,2,229,285.0,0.61,0.118,0.866,4,0,22,3.2,4.2,3010.0,0
+S0054,2025-10-13,Accessories & Gadgets,Instagram,Abu Dhabi,PRO ,8,681,101.0,0.72,0.055,0.95,5,0,17,2.7,4.5,"AED 8,159",0
+S0352,2026-08-17,Beauty & Fragrance,Instagram,Ajman,Starter,1,34,235.0,0.77,0.05,0.923,2,4,6,4.8,4.3,739.0,0
+S0099,2026-09-08,Beauty & Fragrance,Instagram,Dubai,PRO ,5,852,94.0,0.48,0.038,0.959,1,2,13,2.2,6.2,9628.0,No
+S0318,2025-05-21,Accessories & Gadgets,Instagram,Sharjah,Growth,3,359,,0.44,0.056,0.953,3,3,6,4.7,5.1,4410.0,0
+S0067,2026-02-27,accessories and gadgets,TikTok,Ajman,Growth,3,449,76.0,0.5,0.09,0.925,5,3,4,3.7,,5339.0,N
+S0252,13/12/2024,Home & Gifting,Instagram + TikTok,Dubai,GROWTH ,2,236,159.0,0.86,0.06,0.864,2,7,16,,4.2,3436.0,N
+S0393,11/04/2025,Accessories & Gadgets,Instagram,Ajman,Growth,4,161,126.0,0.66,0.064,0.966,0,3,17,5.5,5.6,2998.0,N
+S0169,2025-12-21,Modest Fashion,Instagram,Sharjah,STARTER ,1,44,261.0,0.63,0.131,0.867,4,1,10,3.3,2.5,493.0,N
+S0050,14/05/2026,Beauty & Fragrance,TikTok,Abu Dhabi,Growth,3,332,219.0,0.78,0.035,0.869,3,2,8,2.3,3.4,"AED 3,688",N
+S0241,2026-04-05,Home & Gifting,WhatsApp,Dubai,Growth,4,215,115.0,0.7,0.071,1.0,5,4,17,3.1,6.5,"AED 3,205",N
+S0048,24/06/2025,Modest Fashion,TikTok,Sharjah,Growth,3,445,265.0,0.59,0.159,0.901,8,0,17,,4.9,"AED 5,367",No
+S0253,2024-10-23,Modest Fashion,WhatsApp,Dubai,Growth,2,287,242.0,0.31,0.126,0.989,5,3,6,1.9,6.3,3245.0,No
+S0392,22/06/2026,Beauty & Fragrance,Instagram,Dubai,Starter,1,132,169.0,0.84,0.045,0.863,2,1,4,3.1,2.2,1549.0,0
+S0381,2026-02-06,Accessories & Gadgets,Instagram,Sharjah,Growth,2,170,109.0,0.19,0.054,0.912,1,3,4,2.7,4.2,2638.0,0
+S0133,2024-11-03,Accessories & Gadgets,Instagram,Dubai,Growth,4,178,131.0,0.56,0.042,0.941,5,0,15,4.0,3.8,2758.0,N
+S0309,2025-04-17,Beauty & Fragrance,Instagram,Abu Dhabi,Growth,4,341,137.0,0.95,0.072,0.943,4,1,0,3.4,4.3,4241.0,No
+S0041,2026-01-17,Modest Fashion,Instagram + TikTok,Dubai,Pro,7,609,163.0,0.48,0.105,0.954,9,1,15,1.4,,6776.0,0
+S0317,23/11/2025,Modest Fashion,TikTok,Dubai,Growth,3,539,237.0,0.5,0.113,0.951,6,1,12,2.7,5.9,6213.0,N
+S0186,2025-08-23,Accessories & Gadgets,TikTok,Abu Dhabi,Growth,2,212,117.0,0.47,0.056,0.937,0,3,15,2.9,5.9,"AED 3,164",Yes
+S0022,2025-03-08,Modest Fashion,Instagram,Sharjah,Starter,1,28,285.0,0.48,0.104,0.955,2,2,12,1.0,5.9,AED 640,1
+S0108,24/07/2025,Beauty & Fragrance,Instagram + TikTok,Dubai,Starter,1,88,185.0,0.55,0.089,0.877,2,1,7,3.6,2.6,1310.0,Y
+S0250,2026-02-14,modest fashion,Instagram,Dubai,Growth,4,171,215.0,0.47,0.129,0.933,2,1,3,2.1,5.4,2841.0,0
+S0153,11/04/2026,Beauty & Fragrance,Instagram,Dubai,Growth,2,459,180.0,0.17,0.043,0.948,4,5,15,1.3,6.9,4917.0,No
+S0334,2026-04-07,Home & Gifting,Instagram,Sharjah,Starter,1,147,191.0,0.54,0.042,1.0,2,4,11,1.5,7.5,1884.0,0
+S0291,2025-04-15,Home & Gifting,Instagram,Dubai,Growth,3,182,228.0,0.44,0.057,0.871,2,4,4,3.9,1.0,2620.0,1
+S0083,25/05/2026,Home & Gifting,TikTok,Abu Dhabi,Starter,1,72,147.0,0.57,0.048,0.934,3,3,5,4.2,4.9,1231.0,yes
+S0102,28/07/2026,Accessories & Gadgets,Instagram + TikTok,Dubai,Starter,1,119,96.0,0.64,0.051,0.939,0,1,15,3.1,5.3,"AED 1,358",1
+S0230,11/09/2026,Beauty & Fragrance,Instagram + TikTok,Dubai,Starter,1,142,205.0,0.66,0.054,0.942,3,2,23,1.6,5.3,2155.0,No
+S0346,05/12/2025,Home & Gifting,TikTok,Dubai,Pro,8,1102,167.0,0.52,0.061,0.928,6,4,11,1.4,4.2,13327.0,No
+S0311,19/08/2026,Modest Fashion,Instagram + TikTok,Dubai,Growth,2,194,220.0,0.41,0.128,0.867,3,1,20,2.5,2.5,2388.0,Y
+S0001,04/09/2026,Home & Gifting,Instagram,Sharjah,Growth,2,151,168.0,0.54,0.03,0.822,6,5,10,2.9,1.4,2340.0,Yes
+S0061,19/01/2026,Accessories & Gadgets,TikTok,DXB,Growth,3,199,90.0,0.5,0.049,0.933,3,1,20,3.5,3.4,3063.0,0
+S0245,2025-11-14,Accessories & Gadgets,TikTok,Dubai,Growth,4,190,101.0,0.5,0.052,0.986,2,1,21,3.3,7.8,3113.0,0
+S0254,2026-01-12,Beauty & Fragrance,Instagram,Dubai,Growth,3,252,95.0,0.64,0.06,0.961,4,4,14,4.0,5.5,"AED 3,861",0
+S0116,12/02/2025,Home & Gifting,Instagram,Abu Dhabi,Growth,3,246,162.0,0.7,0.067,0.868,2,5,15,3.9,4.0,"AED 3,595",N
+S0365,12/05/2026,Accessories & Gadgets,Instagram + TikTok,Dubai,Growth,3,543,59.0,0.74,0.075,0.941,6,2,15,2.9,5.6,6345.0,N
+S0118,2025-09-12,Accessories & Gadgets,WhatsApp,Dubai,Starter,1,79,101.0,0.53,0.029,0.974,2,1,6,5.6,6.9,"AED 1,203",0
+S0109,2025-12-07,Beauty & Fragrance,TikTok,Dubai,Starter,1,77,173.0,0.39,0.043,0.875,3,0,13,3.7,,1022.0,0
+S0308,2026-02-19,Accessories & Gadgets,WhatsApp,Dubai,Growth,3,233,87.0,0.48,0.067,0.913,3,4,6,1.7,4.5,"AED 3,074",0
+S0142,15/10/2024,Modest Fashion,TikTok,DXB,Growth,4,180,394.0,0.67,0.147,0.97,6,1,15,4.2,6.0,2628.0,N
+S0202,18/04/2026,Packaged Food,WhatsApp,Dubai,Growth,2,251,77.0,0.7,0.073,0.922,5,2,0,1.6,4.5,3015.0,N
+S0056,2025-10-25,Home & Gifting,Instagram,Dubai,STARTER ,1,126,174.0,0.35,0.097,0.842,6,4,8,3.7,1.0,"AED 1,551",Yes
+S0185,09/01/2026,home and gifting,Instagram+TikTok,Dubai,Pro,7,704,175.0,0.81,0.089,0.897,5,3,4,3.4,3.2,8649.0,No
+S0327,2026-06-18,Home & Gifting,Instagram,dubai,Starter,1,141,124.0,0.73,0.065,0.952,5,3,15,3.4,5.4,2033.0,1
+S0358,2025-06-13,Home & Gifting,Instagram + TikTok,Dubai,Growth,3,173,156.0,0.6,0.047,0.924,2,3,13,2.8,6.0,"AED 2,201",0
+S0281,08/07/2026,Beauty & Fragrance,Instagram,Dubai,Starter,1,65,146.0,0.58,0.051,0.878,1,0,8,2.1,5.9,AED 871,No
+S0123,17/04/2026,Beauty & Fragrance,Instagram,Sharjah,Growth,3,246,248.0,0.68,0.005,0.921,3,1,27,2.3,5.6,3101.0,0
+S0228,29/09/2026,Accessories & Gadgets,Instagram,Dubai,Growth,3,434,62.0,0.68,0.046,0.933,4,0,23,3.7,5.3,4491.0,1
+S0049,11/03/2025,Accessories & Gadgets,Instagram,Dubai,Growth,4,275,101.0,0.63,0.029,0.972,0,3,14,3.7,6.2,3441.0,N
+S0242,2025-10-27,Home & Gifting,Instagram + TikTok,Sharjah,Pro,6,615,137.0,0.68,0.024,0.913,5,4,19,2.8,5.5,6844.0,0
+S0128,2024-11-05,Beauty & Fragrance,Instagram + TikTok,Ajman,Starter,1,98,220.0,0.75,0.045,0.969,3,2,9,3.9,5.8,1236.0,N
+S0043,25/09/2026,Accessories & Gadgets,WhatsApp,Dubai,Growth,4,174,90.0,0.64,0.107,0.92,2,0,5,2.4,5.0,2460.0,1
+S0027,2026-06-03,Modest Fashion,Instagram,Sharjah,GROWTH ,2,588,272.0,0.75,0.151,0.943,5,3,16,3.3,4.5,"AED 7,873",No
+S0332,2025-09-04,Beauty & Fragrance,Instagram,Dubai,Starter,1,72,184.0,0.68,0.013,0.881,0,2,11,3.6,6.4,1297.0,0
+S0057,21/01/2025,Modest Fashion,Instagram + TikTok,Sharjah,Pro,8,1200,311.0,0.72,0.113,0.849,17,1,9,4.1,1.0,12552.0,N
+S0089,2025-09-03,Beauty & Fragrance,TikTok,Dubai,Growth,3,198,214.0,0.46,0.03,0.915,2,0,10,3.2,5.1,3059.0,No
+S0158,2025-01-14,Accessories & Gadgets,TikTok,Dubai,Pro,6,813,115.0,0.59,0.092,0.905,8,0,10,1.7,4.0,"AED 10,068",0
+S0224,20/11/2024,Packaged Food,TikTok,Dubai,Growth,2,167,76.0,0.67,0.033,0.952,1,1,10,2.6,7.0,2157.0,0
+S0361,2026-06-07,Packaged Food,WhatsApp,Dubai,Growth,4,500,66.0,0.89,0.037,0.896,8,0,0,,2.1,4845.0,1
+S0322,2025-05-28,Modest Fashion,Instagram,Dubai,Starter,1,118,154.0,0.4,0.139,0.888,7,2,12,3.1,99.0,1478.0,1
+S0013,2024-11-10,Accessories & Gadgets,Instagram,Abu Dhabi,Growth,3,404,59.0,0.67,0.046,0.919,3,4,5,4.9,4.8,"AED 4,983",0
+S0345,2026-05-11,Home & Gifting,TikTok,Dubai,Growth,3,266,187.0,0.72,0.053,0.881,2,5,10,3.0,4.9,3819.0,Yes
+S0282,2026-07-22,Beauty & Fragrance,Instagram,Abu Dhabi,Growth,2,318,145.0,0.68,0.062,0.919,4,1,11,3.7,3.6,3803.0,Y
+S0219,2025-06-22,Packaged Food,Instagram,Dubai,Starter,1,45,99.0,0.58,0.021,0.927,0,3,5,,5.0,981.0,0
+S0150,15/06/2026,Beauty & Fragrance,Instagram,Dubai,GROWTH ,2,241,193.0,0.63,0.039,0.936,2,0,21,3.8,6.3,"AED 2,873",0
+S0077,17/09/2025,Modest Fashion,Instagram,Dubai,Growth,2,178,204.0,0.45,0.131,0.986,1,3,15,2.3,7.3,2690.0,0
+S0379,2025-12-19,Modest Fashion,WhatsApp,Dubai,Starter,1,125,268.0,0.76,0.112,0.915,3,0,5,2.8,,1743.0,0
+S0090,2026-01-26,Modest Fashion,TikTok,Sharjah,Starter,1,147,286.0,0.82,0.124,0.974,6,1,9,2.7,5.7,1519.0,0
+S0140,06/10/2025,Beauty & Fragrance,Instagram+TikTok,Dubai,Starter,1,97,222.0,0.81,0.077,0.988,3,3,15,2.1,6.6,1407.0,N
+S0108,24/07/2025,Beauty & Fragrance,Instagram + TikTok,Dubai,Starter,1,88,185.0,0.55,0.089,0.877,2,1,7,3.6,2.6,1310.0,Y
+S0019,12/03/2026,Home & Gifting,Instagram,Sharjah,Growth,4,288,114.0,0.63,0.038,0.907,3,5,11,3.6,2.9,4397.0,0
+S0025,2026-01-19,Home & Gifting,TikTok,Ajman,Starter,1,58,139.0,0.81,0.096,0.919,2,3,9,3.5,5.6,AED 801,0
+S0034,2026-02-26,Modest Fashion,Instagram+TikTok,Sharjah,Growth,3,336,365.0,0.65,0.124,0.868,6,1,21,1.8,4.2,3807.0,No
+S0177,31/03/2026,Modest Fashion,Instagram + TikTok,Dubai,Growth,2,416,179.0,0.4,0.107,0.923,3,1,5,2.9,4.5,"AED 4,216",0
+S0220,07/11/2024,Modest Fashion,Instagram,,Growth,4,386,242.0,0.54,0.136,0.906,7,1,22,3.1,3.8,"AED 5,436",Y
+S0270,10/10/2024,Beauty & Fragrance,Instagram,Dubai,Pro,9,702,184.0,0.6,0.045,0.927,5,1,17,2.3,4.6,9538.0,0
+S0183,11/03/2026,Modest Fashion,Instagram,Sharjah,Growth,4,276,303.0,0.56,14.1,0.917,6,1,19,3.2,5.5,3082.0,0
+S0124,05/12/2025,Modest Fashion,TikTok,Dubai,Growth,3,313,232.0,0.33,0.095,0.976,4,0,0,3.6,7.1,"AED 4,277",N
+S0007,2026-01-06,Home & Gifting,Instagram,Sharjah,Starter,1,96,,0.61,0.049,0.84,1,4,12,4.2,1.3,1488.0,0
+S0011,2025-09-08,Modest Fashion,WhatsApp,Dubai,Starter,1,75,325.0,0.46,0.088,0.879,3,0,2,3.8,3.0,AED 939,Yes
+S0276,23/07/2025,Modest Fashion,Instagram, Dubai,Pro,10,620,181.0,0.46,0.111,0.959,3,1,13,2.0,6.4,"AED 7,429",N
+S0187,2026-01-27,modest fashion,Instagram,Dubai,Starter,1,57,250.0,0.7,0.181,0.944,4,1,0,3.5,4.6,728.0,0
+S0222,2025-12-18,Modest Fashion,TikTok,Sharjah,Growth,3,213,286.0,0.68,0.137,0.944,6,0,17,2.9,3.7,2948.0,0
+S0082,10/01/2025,Modest Fashion,Instagram,Sharjah,Growth,4,380,,0.55,0.123,0.904,8,2,11,3.1,3.8,5537.0,No
+S0212,2024-11-07,Accessories & Gadgets,WhatsApp,Sharjah,Growth,4,245,110.0,0.33,0.042,0.959,2,1,12,2.6,7.0,"AED 3,051",No
+S0285,04/09/2025,Accessories & Gadgets,TikTok,AUH,STARTER ,1,77,88.0,0.61,3.7,0.876,4,0,18,2.8,3.2,1104.0,1
+S0335,18/11/2025,Beauty & Fragrance,Instagram,Abu Dhabi,Starter,1,90,180.0,0.55,0.019,0.984,2,1,11,3.5,7.2,1174.0,No
+S0323,22/07/2026,Modest Fashion,Instagram,,Starter,1,138,271.0,0.52,0.078,0.954,2,0,4,4.2,4.9,1258.0,N
+S0247,2025-08-08,Accessories & Gadgets,Instagram,Dubai,Growth,2,385,108.0,0.75,0.083,1.0,6,2,5,3.6,8.0,4597.0,No
+S0316,31/10/2025,Modest Fashion,Instagram,Abu dhabi,Starter,1,68,236.0,0.32,0.142,0.95,4,2,9,3.1,3.8,"AED 1,158",1
+S0330,2025-10-27,Modest Fashion,TikTok,Abu Dhabi,Growth,4,499,255.0,0.6,0.105,0.888,5,1,3,4.9,2.8,5949.0,N
+S0057,21/01/2025,Modest Fashion,Instagram + TikTok,Sharjah,Pro,8,1200,311.0,0.72,0.113,0.849,17,1,9,4.1,1.0,12552.0,N
+S0084,2026-02-27,Beauty & Fragrance,Instagram,Dubai,PRO ,10,735,148.0,0.7,0.023,0.919,4,1,21,2.4,4.0,9022.0,0
+S0093,2024-11-15,modest fashion,WhatsApp,Dubai,Growth,2,269,221.0,0.52,0.13,0.969,8,1,6,4.7,6.3,3575.0,0
+S0046,30/12/2024,Home & Gifting,WhatsApp,Abu Dhabi,Growth,2,503,134.0,0.52,0.075,0.946,9,5,7,1.9,4.1,6162.0,No
+S0303,06/04/2026,Accessories & Gadgets,Instagram,Sharjah,Growth,2,207,,0.62,0.093,1.0,4,4,7,2.1,7.2,3128.0,0
+S0047,2025-03-18,Modest Fashion,Instagram + TikTok,Dubai,Growth,3,339,251.0,0.81,0.134,0.963,7,1,10,3.4,7.0,"AED 4,225",0
+S0340,2026-01-27,Packaged Food,Instagram,Sharjah,Growth,4,278,91.0,0.5,0.008,0.981,2,2,12,2.3,7.7,4197.0,N
+S0273,2025-01-31,beauty and fragrance,Instagram+TikTok,Dubai,Growth,2,320,159.0,0.89,0.039,0.893,1,2,9,1.9,4.3,3464.0,0
+S0016,15/10/2025,Beauty & Fragrance,Instagram,Abu Dhabi,Growth,2,333,149.0,0.94,0.061,0.92,5,1,8,,4.4,3812.0,0
+S0059,15/10/2025,Beauty & Fragrance,WhatsApp,Dubai,Growth,3,540,244.0,0.54,0.042,0.916,4,3,7,2.0,5.0,5987.0,0
+S0397,29/01/2025,Home & Gifting,Instagram,Dubai,Pro,7,1117,147.0,0.71,0.058,0.905,8,3,9,4.3,3.8,12721.0,0
+S0293,30/12/2024,Packaged Food,Instagram,Dubai,Growth,2,443,68.0,0.51,0.0,0.914,2,3,13,4.1,4.3,"AED 5,523",0
+S0060,21/08/2026,Beauty & Fragrance,TikTok,Dubai,Growth,3,213,149.0,0.32,0.06,0.886,3,1,6,3.1,,"AED 3,224",0
+S0367,2026-01-04,Home & Gifting,Instagram,Ajman,Starter,1,111,203.0,0.63,0.044,0.958,3,3,17,2.6,7.3,1701.0,0
+S0040,2026-08-13,Accessories & Gadgets,TikTok,Dubai,Starter,1,67,93.0,0.36,0.05,0.953,1,1,2,5.0,6.1,1116.0,0
+S0294,18/11/2025,Beauty & Fragrance,Instagram,Dubai,Growth,4,180,208.0,0.72,0.057,0.985,2,2,18,1.9,6.8,"AED 3,154",0
+S0026,28/08/2025,Beauty & Fragrance,Instagram+TikTok,Dubai,Growth,3,276,,0.45,0.038,0.939,3,3,20,4.5,6.1,"AED 3,523",No
+S0307,2025-05-27,Modest Fashion,WhatsApp,sharjah,Growth,2,321,192.0,0.69,0.098,0.946,7,2,12,3.5,4.8,4253.0,No
+S0085,21/01/2026,Beauty & Fragrance,Instagram,Dubai,Growth,3,211,169.0,0.51,0.039,1.0,2,2,14,3.8,7.1,2871.0,0
+S0062,18/04/2026,Modest Fashion,Instagram,,Growth,2,190,261.0,0.6,0.107,0.935,4,4,17,1.5,5.3,2660.0,No
+S0052,13/12/2024,Beauty & Fragrance,Instagram+TikTok,Dubai,Pro,8,1200,,0.45,0.001,0.958,7,1,14,2.5,4.8,16533.0,0
+S0394,03/09/2025,Accessories & Gadgets,Instagram,Abu Dhabi,Growth,3,161,59.0,0.71,0.071,0.901,1,1,13,2.6,4.0,1944.0,1
+S0199,16/10/2024,Beauty & Fragrance,Instagram+TikTok,Abu Dhabi,Growth,2,566,187.0,0.62,0.037,0.862,5,1,18,2.4,2.0,5789.0,0
+S0012,2026-08-22,Packaged Food,WhatsApp,Dubai,Growth,3,404,117.0,0.63,0.048,0.931,4,0,8,4.7,3.8,5268.0,yes
+S0018,09/03/2026,Beauty & Fragrance,WhatsApp,Dubai,Growth,3,263,169.0,0.82,0.039,0.871,4,0,12,2.7,4.2,"AED 3,051",Y
+S0068,2025-05-08,Modest Fashion,Instagram+TikTok,Sharjah,Growth,2,561,264.0,0.83,0.128,0.973,4,1,11,1.4,8.0,7678.0,0
+S0347,22/04/2026,packaged food,Instagram,Sharjah,GROWTH ,4,156,79.0,0.39,0.061,0.894,3,2,13,3.5,5.8,2530.0,0
+S0366,17/09/2025,Modest Fashion,Instagram,Ajman,Growth,4,273,249.0,0.49,0.088,0.932,3,1,7,,3.8,"AED 3,897",N
+S0097,2025-02-27,Modest Fashion,Instagram,Dubai,Pro,6,1200,256.0,0.32,0.101,0.958,8,0,11,1.8,7.1,12195.0,No
+S0069,19/09/2026,Beauty & Fragrance,Instagram,Dubai,Growth,3,99999,151.0,0.63,0.025,0.891,3,0,12,1.4,4.1,4305.0,0
+S0107,30/10/2025,Modest Fashion,Instagram,sharjah,Starter,1,89,219.0,0.49,0.124,0.873,2,0,12,3.1,4.4,988.0,No
+S0005,2025-12-30,Beauty & Fragrance,Instagram + TikTok,Dubai,Growth,3,177,153.0,0.82,0.079,0.937,4,0,18,3.4,5.8,"AED 2,160",0
+S0348,21/02/2025,Beauty & Fragrance,Instagram,Ajman,Growth,3,345,216.0,0.75,0.059,0.9,4,6,11,2.6,3.1,3794.0,N
+S0103,2025-03-11,Beauty & Fragrance,Instagram+TikTok,Dubai,Starter,1,140,189.0,0.46,0.031,0.892,1,2,11,4.2,4.1,2141.0,No
+S0312,2026-09-28,Modest Fashion,WhatsApp,Dubai,Starter,1,57,237.0,0.68,0.065,0.93,3,1,15,2.0,5.2,893.0,No
+S0320,30/06/2026,Packaged Food,Instagram + TikTok,Abu Dhabi,Growth,3,173,61.0,0.62,0.0,0.876,2,1,25,4.4,3.6,"AED 2,355",1
+S0331,17/10/2024,Home & Gifting,Instagram,Abu Dhabi,Growth,3,193,147.0,0.65,0.07,0.941,4,2,19,3.5,6.2,"AED 2,674",No
+S0385,2024-12-17,modest fashion,Instagram + TikTok,Dubai,Growth,4,494,293.0,0.49,0.087,0.911,5,1,18,3.8,4.3,5620.0,No
+S0354,03/06/2025,Accessories & Gadgets,TikTok,Dubai,Growth,2,242,106.0,0.42,0.04,0.924,1,0,4,2.8,5.1,3441.0,0
+S0196,27/06/2026,Beauty & Fragrance,Instagram,Dubai,STARTER ,1,131,203.0,0.66,0.045,0.9,7,0,16,2.6,3.7,1624.0,0
+S0400,08/12/2025,Modest Fashion,WhatsApp,Sharjah,Growth,4,254,280.0,0.28,11.3,0.921,7,2,7,2.5,4.1,3903.0,1
+S0135,26/02/2025,Accessories & Gadgets,Instagram,Sharjah,Growth,2,211,62.0,0.31,0.079,0.921,1,2,2,3.0,4.3,"AED 2,588",N
+S0094,10/07/2025,Modest Fashion,Instagram,Dubai,Growth,4,190,257.0,0.64,0.138,0.908,5,1,9,3.1,3.4,2907.0,0
+S0160,2025-07-27,Home & Gifting,TikTok,Dubai,Starter,1,55,165.0,0.58,0.056,0.944,1,2,10,2.8,5.5,930.0,1
+S0364,07/09/2026,Beauty & Fragrance,Instagram,Dubai,Pro,8,952,200.0,0.45,0.063,0.948,7,1,8,2.4,4.4,11307.0,N
+S0223,15/07/2026,accessories and gadgets,Instagram + TikTok,Abu Dhabi,Growth,4,330,77.0,0.53,0.064,0.937,5,3,10,3.2,5.5,4362.0,No
+S0231,2024-11-20,Beauty & Fragrance,Instagram+TikTok,Sharjah,Starter,1,96,158.0,0.61,1.3,1.0,1,1,4,4.8,6.8,1285.0,0
+S0038,2025-05-18,Modest Fashion,TikTok,Abu Dhabi,Growth,3,232,208.0,0.67,0.119,0.898,3,2,16,3.6,2.6,2735.0,No
+S0120,08/10/2024,Accessories & Gadgets,Instagram+TikTok,Sharjah,Pro,8,1161,92.0,0.56,0.085,0.878,6,0,18,4.5,3.7,"AED 14,185",0
+S0125,29/08/2026,Beauty & Fragrance,Instagram,Dubai,Growth,4,388,109.0,0.67,0.061,0.931,6,3,11,2.7,4.0,4669.0,0
+S0164,2025-12-15,Beauty & Fragrance,TikTok,Dubai,Growth,3,207,260.0,0.76,0.024,0.931,1,0,4,3.6,4.9,2790.0,No
+S0112,09/01/2025,Beauty & Fragrance,Instagram+TikTok,Ajman,Pro,5,700,202.0,0.54,0.045,0.984,7,1,17,3.5,6.6,7907.0,No
+S0239,26/06/2026,Beauty & Fragrance,WhatsApp,Dubai,Pro,7,764,191.0,0.52,0.016,0.948,5,2,7,2.9,5.6,8346.0,No
+S0167,24/02/2025,Home & Gifting,WhatsApp,Abu Dhabi,Pro,8,732,188.0,0.79,0.054,0.932,5,3,8,2.9,4.7,8195.0,No
+S0260,2026-06-06,accessories and gadgets,Instagram,Sharjah,Starter,1,118,110.0,0.6,0.08,0.856,3,0,3,2.0,4.3,1058.0,Y
+S0003,14/04/2025,Home & Gifting,WhatsApp,Abu Dhabi,Starter,1,68,126.0,0.73,0.052,0.909,3,6,12,1.0,5.8,"AED 1,297",0
+S0096,19/05/2026,Accessories & Gadgets,TikTok,Abu Dhabi,Growth,2,201,71.0,0.44,0.08,0.867,7,2,12,2.5,3.5,2762.0,0
+S0132,04/02/2025,Packaged Food,WhatsApp,Dubai,GROWTH ,3,275,85.0,0.34,0.0,0.959,1,4,7,3.2,5.6,3828.0,No
+S0024,2025-02-25,packaged food,Instagram,AUH,Growth,4,246,84.0,0.79,0.008,0.891,3,4,15,2.8,4.0,2990.0,0
+S0004,2025-08-08,Accessories & Gadgets,Instagram,Sharjah,Growth,4,511,102.0,0.82,0.064,0.889,3,0,16,2.4,4.6,6303.0,N
+S0232,29/05/2025,Modest Fashion,Instagram+TikTok,sharjah,Starter,1,87,176.0,0.6,0.1,0.889,8,1,15,2.9,3.5,1021.0,Y
+S0339,2025-10-24,Beauty & Fragrance,Instagram,Dubai,Starter,1,62,153.0,0.5,5.1,0.877,6,0,9,2.7,3.3,650.0,1
+S0029,08/03/2025,Beauty & Fragrance,Instagram,Ajman,GROWTH ,4,362,144.0,0.65,0.045,0.903,1,3,6,1.8,3.3,"AED 4,751",N
+S0299,28/06/2026,Home & Gifting,WhatsApp,Ajman,Growth,4,395,125.0,0.64,0.069,0.959,3,5,5,3.0,4.9,4751.0,N
+S0214,23/07/2025,Home & Gifting,Instagram+TikTok,Abu Dhabi,Growth,4,258,124.0,0.72,0.032,0.95,3,3,7,4.2,4.6,"AED 3,407",0
+S0134,2026-05-28,Modest Fashion,TikTok,Sharjah,Starter,1,93,310.0,0.79,0.123,0.934,4,1,5,2.6,5.0,1522.0,N
+S0296,20/01/2026,Packaged Food,TikTok,Dubai,Starter,1,67,67.0,0.58,0.043,0.987,1,2,14,3.4,7.9,1169.0,0
+S0368,05/10/2024,Accessories & Gadgets,Instagram,,Growth,2,194,86.0,0.41,0.063,0.967,2,1,6,3.3,6.4,"AED 3,136",0
+S0386,2026-07-06,Packaged Food,Instagram,Ajman,Starter,1,114,82.0,0.85,0.013,0.867,2,3,12,4.3,2.8,"AED 1,714",0
+S0143,2024-11-07,Packaged Food,Instagram+TikTok,Dubai,Pro,10,844,64.0,0.62,0.007,0.973,4,0,3,4.0,6.6,"AED 10,466",No
+S0389,08/09/2026,Beauty & Fragrance,WhatsApp,Dubai,Starter,1,138,208.0,0.56,0.056,0.955,5,1,7,2.5,5.8,1712.0,0
+S0284,22/02/2025,Beauty & Fragrance,TikTok,Ajman,Growth,4,471,216.0,0.78,0.058,0.939,2,3,26,3.6,4.5,5637.0,1
+S0157,2025-02-20,Modest Fashion,Instagram,Sharjah,Growth,3,158,275.0,0.71,0.144,0.874,6,3,5,,2.2,"AED 2,448",Yes
+S0370,2024-10-21,Packaged Food,TikTok,Dubai,Growth,4,306,103.0,0.5,0.038,0.926,6,2,12,,4.1,"AED 3,312",0
+S0227,19/10/2024,Beauty & Fragrance,WhatsApp,Abu Dhabi,Starter,1,45,208.0,0.5,0.01,1.0,2,1,4,3.8,,675.0,N
+S0353,2025-08-20,Accessories & Gadgets,Instagram,sharjah,Growth,2,428,96.0,0.6,0.074,0.954,2,1,10,2.1,6.3,5274.0,No
+S0146,11/12/2025,beauty and fragrance,Instagram,Abu dhabi,Growth,4,358,162.0,0.73,0.02,0.92,1,2,10,3.9,5.6,5042.0,0
+S0287,2026-04-23,Beauty & Fragrance,Instagram,Sharjah,Growth,3,204,201.0,0.76,0.023,0.997,1,1,19,3.1,7.0,2646.0,0
+S0086,04/01/2026,Beauty & Fragrance,Instagram,Dubai,Growth,3,298,224.0,0.69,0.065,1.0,1,1,8,3.0,6.6,4141.0,0
+S0155,28/10/2024,Beauty & Fragrance,Instagram,Abu dhabi,Starter,1,77,189.0,0.58,0.024,0.889,4,0,16,2.5,4.4,1403.0,1
+S0175,2025-03-11,Beauty & Fragrance,Instagram+TikTok, Dubai,Pro,8,1200,216.0,0.41,0.047,0.926,11,2,7,3.2,4.8,12478.0,N
+S0286,2025-10-09,Modest Fashion,Instagram,Sharjah,Growth,4,259,264.0,0.57,0.142,0.868,8,0,14,2.2,4.4,3261.0,0
+S0117,11/05/2025,Home & Gifting,Instagram,Dubai,Pro,10,1200,117.0,0.82,0.054,0.918,4,2,20,1.2,6.0,11779.0,0
+S0182,12/10/2025,Packaged Food,TikTok,Ajman,Growth,2,486,117.0,0.46,0.045,0.968,3,3,21,3.6,6.0,4974.0,0
+S0080,2026-06-23,Home & Gifting,Instagram,Sharjah,Growth,2,530,122.0,0.77,0.072,0.879,3,3,19,2.2,2.6,5866.0,0
+S0198,2025-04-18,Home & Gifting,TikTok,Dubai,Growth,2,505,149.0,0.36,0.058,0.971,4,2,23,2.2,5.9,6595.0,N
+S0075,2026-07-17,beauty and fragrance,Instagram,Sharjah,Growth,4,257,190.0,0.59,0.045,0.962,2,2,12,2.6,6.0,"AED 3,397",0
+S0041,2026-01-17,Modest Fashion,Instagram + TikTok,Dubai,Pro,7,609,163.0,0.48,0.105,0.954,9,1,15,1.4,,6776.0,0
+S0360,26/11/2025,Accessories & Gadgets,TikTok,Sharjah,Starter,1,84,92.0,0.65,0.082,0.899,4,0,6,3.0,,AED 933,0
+S0373,16/05/2026,Modest Fashion,TikTok,Dubai,Growth,3,186,241.0,0.64,0.121,0.955,7,2,8,4.6,4.2,"AED 2,673",1
+S0326,2025-07-24,Accessories & Gadgets,Instagram,Sharjah,GROWTH ,2,435,123.0,0.65,0.095,0.905,3,0,10,3.6,4.8,"AED 4,923",N
+S0163,09/05/2025,Beauty & Fragrance,Instagram + TikTok,Dubai,Growth,4,223,195.0,0.62,0.037,0.928,2,1,22,1.7,5.1,3366.0,0
+S0398,2025-08-10,Modest Fashion,Instagram,sharjah,Pro,10,1200,237.0,0.56,0.137,0.923,10,2,8,4.7,3.6,14031.0,0
+S0129,2026-07-29,Beauty & Fragrance,WhatsApp,Abu dhabi,Growth,2,276,190.0,0.5,0.03,0.982,3,1,13,1.0,8.2,3535.0,N
+S0021,2026-03-18,home and gifting,WhatsApp,Dubai,PRO ,6,609,152.0,0.66,0.056,0.906,4,6,7,2.8,5.4,"AED 8,237",0
+S0302,2025-02-23,Beauty & Fragrance,Instagram,Dubai,Starter,1,116,216.0,0.59,0.027,0.921,4,2,23,4.1,3.9,1093.0,1
+S0002,12/08/2025,Modest Fashion,Instagram + TikTok,Dubai,Growth,4,534,277.0,0.29,0.131,0.905,6,4,3,2.2,3.5,"AED 5,831",0
+S0319,2025-08-09,Modest Fashion,WhatsApp,Dubai,Starter,1,143,290.0,0.32,0.112,0.853,9,0,18,2.3,,"AED 1,678",1
+S0274,26/05/2026,Accessories & Gadgets,WhatsApp,Abu Dhabi,Growth,2,217,90.0,0.35,0.072,0.979,5,0,8,3.2,4.7,2987.0,1
+S0301,23/12/2024,Home & Gifting,Instagram,Dubai,Pro,9,1200,153.0,0.84,0.057,0.944,6,4,11,2.7,5.4,15442.0,N
+S0243,2026-05-07,Beauty & Fragrance,Instagram,Sharjah,Pro,10,606,173.0,0.56,0.036,0.907,0,2,12,3.3,4.1,8987.0,0
+S0264,2025-10-17,Beauty & Fragrance,Instagram,Sharjah,Pro,8,636,202.0,0.71,0.085,0.944,9,2,11,3.5,4.3,8699.0,0
+S0391,07/11/2024,Accessories & Gadgets,Instagram,Dubai,Growth,2,157,81.0,0.63,0.055,0.915,4,3,13,4.1,3.8,2150.0,Yes
+S0035,03/11/2025,Modest Fashion,Instagram,SHJ,Starter,1,55,289.0,0.69,0.148,0.91,1,3,5,2.7,3.8,"AED 1,001",1
+S0305,22/08/2026,Home & Gifting,Instagram,sharjah,Growth,2,540,93.0,0.47,0.043,0.93,8,2,12,1.0,5.5,7088.0,N
+S0375,2025-08-25,Beauty & Fragrance,Instagram,Abu dhabi,Growth,3,170,160.0,0.55,0.035,0.94,3,1,25,3.2,4.0,"AED 2,252",No
+S0070,2026-04-04,Modest Fashion,TikTok,Dubai,GROWTH ,3,407,203.0,0.52,0.117,1.0,3,1,16,2.7,5.6,5458.0,No
+S0088,2026-08-30,Modest Fashion,Instagram,Dubai,Pro,7,701,188.0,0.45,0.102,0.933,5,2,15,4.3,6.6,"AED 9,263",N
+S0098,2024-12-11,Beauty & Fragrance,TikTok,Dubai,Growth,4,310,204.0,0.79,0.022,1.0,2,3,10,3.6,7.0,"AED 4,251",No
+S0115,2026-07-23,Beauty & Fragrance,Instagram,dubai,Growth,3,182,164.0,0.5,2.3,0.967,2,5,5,5.0,6.7,2661.0,0
+S0300,2026-07-15,Accessories & Gadgets,Instagram,Dubai,Growth,4,235,83.0,0.48,0.053,0.955,2,2,20,4.8,6.3,3171.0,N
+S0355,2024-10-08,Modest Fashion,WhatsApp,Dubai,Starter,1,132,244.0,0.68,0.111,0.919,4,1,14,3.4,3.9,1682.0,1
+S0210,2025-02-28,Modest Fashion,Instagram,Dubai,Starter,1,79,392.0,0.52,0.107,0.985,2,1,12,4.0,6.5,1007.0,No
+S0306,2026-03-26,modest fashion,TikTok,Sharjah,Starter,1,131,195.0,0.38,0.122,0.931,3,2,10,1.9,4.9,1644.0,N
+S0197,2025-09-28,Accessories & Gadgets,WhatsApp,Sharjah,Starter,1,141,101.0,0.54,0.042,0.883,2,2,12,5.5,3.6,1548.0,1
+S0283,2025-12-11,Beauty & Fragrance,Instagram,Abu Dhabi,Starter,1,35,190.0,0.63,0.055,0.983,1,2,6,2.9,7.2,807.0,1
+S0168,18/06/2025,home and gifting,Instagram,Dubai,Growth,2,231,184.0,0.34,0.064,0.918,4,3,9,3.4,4.8,2826.0,No
+S0152,06/02/2026,Packaged Food,Instagram, Dubai,Growth,3,360,104.0,0.66,0.035,0.923,6,1,11,2.0,4.2,4400.0,yes
+S0105,19/08/2026,home and gifting,TikTok,Abu Dhabi,Growth,3,459,167.0,0.67,0.044,0.961,5,6,6,5.0,6.7,5664.0,0
+S0329,2025-08-28,Accessories & Gadgets,TikTok,Sharjah,Growth,2,229,89.0,0.77,0.086,0.912,2,0,13,3.6,4.3,2903.0,Y
+S0010,2026-09-27,Modest Fashion,Instagram+TikTok,Abu Dhabi,Growth,3,440,291.0,0.77,0.121,0.949,8,1,0,4.4,4.2,4711.0,yes
+S0130,2025-08-20,Accessories & Gadgets,Instagram,Sharjah,Growth,2,296,98.0,0.38,0.051,0.965,6,0,11,2.9,8.6,"AED 3,264",No
+S0397,29/01/2025,Home & Gifting,Instagram,Dubai,Pro,7,1117,147.0,0.71,0.058,0.905,8,3,9,4.3,3.8,12721.0,0
+S0078,15/05/2026,Accessories & Gadgets,TikTok,Dubai,Starter,1,21,67.0,0.59,0.035,0.916,0,2,12,4.5,5.2,538.0,0
+S0193,2025-09-24,Beauty & Fragrance,Instagram,Sharjah,Growth,2,158,155.0,0.53,3.8,0.972,1,2,11,3.1,7.0,"AED 2,035",0
+S0055,2025-02-12,accessories and gadgets,Instagram,Dubai,PRO ,5,838,82.0,0.4,0.075,0.928,9,0,19,3.0,4.3,"AED 8,768",No
+S0020,21/11/2025,Accessories & Gadgets,Instagram+TikTok,Dubai,Pro,5,795,96.0,0.59,0.062,0.93,3,4,9,2.3,6.5,"AED 10,840",0
+S0390,04/01/2025,Home & Gifting,TikTok,DXB,GROWTH ,3,581,149.0,0.58,0.021,1.0,5,4,7,2.0,7.3,7072.0,0
+S0179,06/10/2024,Packaged Food,Instagram + TikTok,Dubai,Starter,1,141,74.0,0.53,0.008,0.944,2,1,13,1.9,5.9,1996.0,N
+S0258,22/03/2026,Beauty & Fragrance,Instagram,Dubai,Starter,1,55,119.0,0.54,0.054,0.907,2,2,10,2.4,5.0,629.0,Yes
+S0256,2025-08-08,Home & Gifting,Instagram,Sharjah,Growth,3,393,123.0,0.5,0.051,0.956,3,4,12,2.3,5.8,4792.0,0
+S0216,2025-05-23,Home & Gifting,WhatsApp,Dubai,Starter,1,98,,0.75,0.071,0.959,2,5,8,4.8,5.9,"AED 1,419",0
+S0351,2026-04-10,Accessories & Gadgets,Instagram,Dubai,Starter,1,-151,107.0,0.61,0.07,0.921,4,3,18,4.1,3.4,1693.0,Yes
+S0194,23/07/2026,Home & Gifting,TikTok,Dubai,Growth,2,159,195.0,0.57,0.086,0.9,2,5,10,2.8,5.1,2289.0,0
+S0131,23/12/2024,Beauty & Fragrance,WhatsApp,Dubai,Growth,3,176,193.0,0.62,0.055,0.973,4,0,3,3.4,6.5,2322.0,No
+S0377,2025-09-07,Packaged Food,TikTok,Dubai,Starter,1,84,83.0,0.73,1.9,0.958,2,0,7,3.0,5.2,1168.0,1
+S0101,20/05/2025,packaged food,WhatsApp,Dubai,Growth,2,580,57.0,0.51,0.0,0.896,8,2,12,1.7,3.5,6133.0,0
+S0172,24/11/2024,Modest Fashion,Instagram + TikTok,Dubai,Growth,4,375,145.0,0.46,0.119,0.945,3,0,19,2.0,4.7,5110.0,0
+S0359,2026-01-05,Modest Fashion,Instagram,Dubai,Growth,2,384,302.0,0.26,0.123,0.933,4,1,5,2.8,5.1,4232.0,1
+S0314,30/09/2025,Modest Fashion,Instagram+TikTok,Abu Dhabi,Growth,3,362,294.0,0.61,0.114,0.861,3,1,12,2.0,3.6,4635.0,0
+S0376,10/02/2026,Beauty & Fragrance,Instagram+TikTok,Sharjah,Growth,2,483,221.0,0.49,0.04,0.901,5,1,2,2.5,2.9,5151.0,0
+S0144,05/12/2025,Accessories & Gadgets,Instagram+TikTok,Dubai,GROWTH ,4,313,81.0,0.66,0.1,0.921,3,1,4,2.9,5.9,"AED 3,937",N
+S0297,13/06/2026,Packaged Food,WhatsApp,Dubai,Growth,3,295,69.0,0.81,0.019,0.94,5,2,8,4.2,3.6,"AED 4,094",0
+S0280,17/01/2026,Home & Gifting,Instagram,,Growth,3,201,143.0,0.67,0.04,0.923,1,5,13,2.9,6.5,3299.0,0
+S0203,25/03/2025,Modest Fashion,Instagram + TikTok,Dubai,Starter,1,144,277.0,0.65,0.115,0.946,4,1,21,3.8,5.5,1380.0,1
+S0201,13/01/2025,Home & Gifting,TikTok,Dubai,Growth,2,-68,84.0,0.42,0.034,0.92,4,3,6,3.4,4.5,3302.0,Yes
+S0149,27/10/2025,Modest Fashion,WhatsApp,Ajman,Pro,6,1200,237.0,0.78,0.141,0.882,10,3,1,2.4,3.8,"AED 14,619",0
+S0269,2026-08-08,Beauty & Fragrance,Instagram,Dubai,Growth,3,281,164.0,0.45,0.003,0.972,1,0,7,3.8,6.8,"AED 3,247",0
+S0122,07/08/2026,Accessories & Gadgets,Instagram,Ajman,Growth,3,327,67.0,0.83,0.06,0.844,1,4,24,4.1,1.9,3595.0,0
+S0137,23/02/2026,Packaged Food,TikTok,Abu Dhabi,Growth,4,301,92.0,0.45,0.007,0.892,2,1,8,1.0,5.3,3805.0,0
+S0218,19/08/2026,Beauty & Fragrance,Instagram,Ajman,Growth,2,474,176.0,0.56,0.06,0.945,5,1,9,,5.1,4959.0,0
+S0366,17/09/2025,Modest Fashion,Instagram,Ajman,Growth,4,273,249.0,0.49,0.088,0.932,3,1,7,,3.8,"AED 3,897",N
+S0058,2024-11-19,Accessories & Gadgets,TikTok,Ajman,Pro,8,649,113.0,0.51,0.052,0.935,3,1,11,2.7,6.7,9415.0,0
+S0195,2026-02-25,Beauty & Fragrance,Instagram,Abu Dhabi,Starter,1,77,207.0,0.71,0.045,0.953,2,1,4,2.6,6.5,"AED 1,299",0
+S0271,15/02/2025,Beauty & Fragrance,Instagram,Ajman,Starter,1,106,221.0,0.58,0.028,1.0,1,0,10,3.0,7.3,1237.0,0
+S0374,05/05/2025,Modest Fashion,Instagram+TikTok,Sharjah,Starter,1,85,316.0,0.4,0.107,0.941,4,0,16,3.0,5.5,1054.0,0
+S0064,2025-07-05,Home & Gifting,Instagram,Sharjah,Pro,5,799,131.0,0.48,0.058,0.935,6,4,16,2.3,5.4,"AED 11,418",N
+S0071,31/12/2024,Beauty & Fragrance,Instagram,Sharjah,Growth,3,232,188.0,0.58,0.04,0.945,3,1,8,2.8,4.9,"AED 2,999",0
+S0344,2024-11-24,Accessories & Gadgets,Instagram,Ajman,Starter,1,46,80.0,0.47,0.051,0.888,1,3,17,4.2,3.7,904.0,No
+S0272,2025-01-08,Beauty & Fragrance,TikTok,Sharjah,Starter,1,146,256.0,0.88,0.022,0.932,2,3,14,2.7,6.1,2025.0,0
+S0338,2026-05-27,Home & Gifting,Instagram,Dubai,Pro,6,1200,173.0,0.59,0.04,0.852,8,3,7,5.2,1.0,10850.0,0
+S0267,10/04/2026,Modest Fashion,Instagram+TikTok,Dubai,Starter,1,34,245.0,0.64,0.122,0.905,6,2,9,2.2,3.7,AED 674,1
+S0310,22/01/2025,Beauty & Fragrance,TikTok,Dubai,Growth,2,163,155.0,0.44,0.03,0.923,3,2,0,3.9,3.9,2450.0,No
+S0313,03/11/2024,Beauty & Fragrance,Instagram+TikTok,Sharjah,Growth,2,326,228.0,0.83,0.039,0.886,3,1,23,2.5,4.4,3628.0,0
+S0170,27/11/2024,Packaged Food,TikTok,,Growth,2,479,39.0,0.51,0.025,0.893,5,0,17,3.6,3.1,5379.0,N
+S0037,2025-06-10,Beauty & Fragrance,Instagram,SHJ,Growth,4,428,146.0,0.92,0.073,0.861,3,1,12,1.1,4.2,5691.0,0
+S0244,04/10/2025,Accessories & Gadgets,Instagram,Sharjah,Starter,1,80,78.0,0.69,0.08,0.859,4,1,5,2.6,3.9,1156.0,0
+S0083,25/05/2026,Home & Gifting,TikTok,Abu Dhabi,Starter,1,72,147.0,0.57,0.048,0.934,3,3,5,4.2,4.9,1231.0,yes
+S0261,2025-11-26,Beauty & Fragrance,Instagram,Abu Dhabi,Growth,3,388,229.0,0.52,0.049,0.964,3,3,21,3.8,5.6,4687.0,N
+S0023,07/07/2026,Packaged Food,Instagram,Dubai,Growth,4,165,83.0,0.46,0.017,0.919,4,0,2,4.7,2.0,2739.0,Y
+S0388,29/08/2026,packaged food,Instagram,Abu Dhabi,Growth,2,268,70.0,0.6,0.054,0.862,2,1,4,3.7,3.0,2862.0,yes
+S0240,14/01/2025,Beauty & Fragrance,Instagram+TikTok,Dubai,Starter,1,121,148.0,0.77,0.038,0.915,2,1,5,3.6,5.9,1558.0,0
+S0221,10/01/2025,modest fashion,WhatsApp,Abu Dhabi,Pro,7,737,133.0,0.95,0.085,0.854,7,1,17,,2.1,"AED 9,621",0
+S0014,2025-07-04,Home & Gifting,Instagram+TikTok,DXB,Starter,1,72,128.0,0.33,0.091,0.942,7,3,10,4.0,3.5,1233.0,0
+S0321,05/06/2025,Packaged Food,TikTok,Sharjah,Starter,1,80,76.0,0.26,0.0,1.0,2,3,15,2.0,,959.0,No
+S0161,2025-08-18,Beauty & Fragrance,Instagram,Dubai,Starter,1,93,193.0,0.61,0.055,0.918,2,2,18,3.4,4.3,928.0,0
+S0073,18/12/2025,Home & Gifting,Instagram,Abu Dhabi,Starter,1,120,167.0,0.82,0.023,0.951,1,5,6,2.4,6.8,1524.0,0
+S0178,11/11/2025,Packaged Food,TikTok,Dubai,Starter,1,63,79.0,0.86,0.021,0.982,1,0,9,3.2,5.8,AED 923,0
+S0277,2024-10-19,Modest Fashion,Instagram + TikTok,Dubai,Starter,1,72,313.0,0.75,0.15,0.978,6,2,12,1.5,-1.0,980.0,No
+S0036,2025-08-07,Beauty & Fragrance,Instagram,Sharjah,Pro,8,1138,206.0,0.48,0.053,0.887,7,1,9,4.4,,15765.0,No
+S0208,18/03/2026,Accessories & Gadgets,Instagram,Dubai,Growth,3,260,84.0,0.52,0.071,0.88,1,1,10,4.6,3.6,"AED 3,578",0
+S0226,2025-08-09,Packaged Food,Instagram,Dubai,Starter,1,70,71.0,0.83,0.0,0.956,0,1,10,3.0,6.6,821.0,No
+S0121,2025-11-03,Accessories & Gadgets,Instagram + TikTok,Dubai,Growth,2,350,35.0,0.65,0.043,0.954,4,0,1,3.0,5.0,"AED 4,578",0
+S0217,13/10/2024,Beauty & Fragrance,WhatsApp,Sharjah,Growth,3,304,171.0,0.69,0.054,0.961,4,1,11,3.9,0.0,3618.0,N
+S0030,19/03/2026,Accessories & Gadgets,Instagram + TikTok,Dubai,Starter,1,110,59.0,0.67,0.034,0.927,0,1,10,5.4,4.2,1543.0,0
+S0189,2024-10-24,home and gifting,Instagram,Dubai,Growth,4,461,144.0,0.33,0.055,0.946,6,4,11,2.2,6.0,6098.0,No
+S0382,2024-11-09,Packaged Food,Instagram+TikTok,Dubai,Pro,5,954,62.0,0.33,0.015,0.91,4,2,20,1.0,5.7,9189.0,N
+S0181,06/12/2025,Packaged Food,TikTok,Abu Dhabi,Growth,2,195,76.0,0.54,0.0,0.877,2,3,12,1.6,3.9,2845.0,yes
+S0234,18/08/2025,Accessories & Gadgets,Instagram,Abu Dhabi,Starter,1,143,110.0,0.51,0.053,0.898,2,5,12,2.7,,1801.0,No
+S0336,2026-06-09,Accessories & Gadgets,WhatsApp,Dubai,Growth,2,300,105.0,0.48,0.056,0.959,0,2,1,2.0,7.3,"AED 3,811",No
+S0166,2025-11-05,Modest Fashion,WhatsApp,Dubai,Growth,2,579,282.0,0.63,0.127,0.901,5,1,2,2.8,5.6,5822.0,0
+S0127,2025-10-26,Modest Fashion,Instagram + TikTok,Dubai,Growth,3,501,261.0,0.57,0.098,0.966,5,1,10,3.4,5.9,6336.0,0
+S0395,2026-08-22,Beauty & Fragrance,Instagram,Ajman,Growth,2,502,198.0,0.78,0.022,0.982,5,0,13,5.0,4.8,"AED 5,892",0
+S0265,2026-04-07,Packaged Food,Instagram,Dubai,Growth,2,262,40.0,0.73,0.04,0.919,4,3,16,3.1,5.5,"AED 3,425",Y
+S0065,2025-10-16,Accessories & Gadgets,TikTok,Dubai,Growth,2,287,63.0,0.85,0.019,0.979,6,1,13,2.8,4.6,3484.0,0
+S0350,2024-10-30,beauty and fragrance,Instagram+TikTok,Abu Dhabi,Growth,4,260,224.0,0.54,0.102,0.951,5,0,12,2.4,5.7,3377.0,0
+S0215,28/07/2026,Accessories & Gadgets,Instagram,Dubai,Starter,1,66,104.0,0.72,0.036,0.964,2,0,16,3.1,5.9,890.0,0
+S0384,2025-01-04,Modest Fashion,TikTok,Dubai,Starter,1,100,292.0,0.54,0.098,0.903,2,1,11,4.5,3.1,1195.0,0
+S0349,2025-12-13,Accessories & Gadgets,WhatsApp,Dubai,Growth,3,546,99.0,0.52,0.08,0.899,0,1,2,4.5,2.3,6699.0,0
+S0176,2026-02-10,Beauty & Fragrance,TikTok,Sharjah,Starter,1,108,148.0,0.42,0.053,0.992,4,2,6,1.5,6.1,1466.0,0
+S0173,19/04/2025,Beauty & Fragrance,TikTok,Dubai,GROWTH ,4,597,233.0,0.57,0.048,0.877,4,0,10,4.0,2.1,6016.0,0
+S0333,05/11/2024,Accessories & Gadgets,Instagram,sharjah,Starter,1,97,105.0,0.62,0.081,0.947,2,1,19,3.7,6.5,1416.0,Y
+S0033,2026-06-03,Modest Fashion,WhatsApp,Dubai,Starter,1,140,236.0,0.81,0.152,0.91,2,1,16,,5.1,"AED 1,651",1
+S0032,2025-09-20,Packaged Food,WhatsApp,Sharjah,Pro,8,823,73.0,0.61,0.024,0.929,4,3,4,3.2,5.8,11763.0,0
+S0233,23/12/2024,Packaged Food,Instagram,dubai,Growth,4,251,85.0,0.59,0.6,0.938,3,4,24,2.9,5.5,"AED 3,278",0
+S0236,2026-09-21,Home & Gifting,Instagram,sharjah,Growth,3,293,91.0,0.82,0.022,0.928,2,3,5,4.5,4.9,3729.0,yes
+S0188,2026-02-16,Beauty & Fragrance,Instagram,Dubai,Starter,1,122,106.0,0.48,0.035,0.924,2,3,19,2.6,5.6,1653.0,0
+S0174,2025-12-29,Packaged Food,WhatsApp,Abu Dhabi,Starter,1,95,78.0,0.88,0.005,0.868,3,3,9,4.2,,1510.0,0
+S0380,16/08/2026,Home & Gifting,Instagram + TikTok,Dubai,Growth,3,228,145.0,0.49,0.051,0.933,2,4,10,2.1,6.5,"AED 3,453",0
+S0304,15/01/2025,Modest Fashion,Instagram + TikTok,Ajman,Pro,8,1199,164.0,0.55,0.102,0.894,12,2,16,3.4,2.8,12023.0,0
+S0039,14/01/2025,Beauty & Fragrance,WhatsApp,Dubai,Growth,4,451,181.0,0.71,0.088,0.888,4,0,0,3.5,1.9,"AED 5,061",0
+S0266,2025-09-13,Beauty & Fragrance,WhatsApp,Abu Dhabi,Pro,8,624,113.0,0.37,0.069,0.943,7,1,12,2.5,6.5,7385.0,No
+S0371,2025-06-23,Home & Gifting,Instagram,Dubai,Growth,3,246,170.0,0.73,0.056,0.985,5,5,26,2.7,,3791.0,N
+S0015,18/01/2026,Modest Fashion,Instagram,Dubai,Growth,4,232,228.0,0.67,0.119,0.935,5,2,11,,4.0,2929.0,0
+S0095,2025-11-17,modest fashion,WhatsApp,Sharjah,Pro,5,790,321.0,0.95,0.148,0.928,4,1,0,2.6,4.8,"AED 9,346",0
+S0017,17/07/2025,Accessories & Gadgets,Instagram,Abu Dhabi,Growth,2,406,,0.7,0.059,0.869,5,1,12,3.0,4.3,4960.0,0
+S0342,2026-07-21,Packaged Food,Instagram,DXB,Starter,1,143,73.0,0.75,0.029,0.902,2,1,2,2.1,4.2,1715.0,1
+S0218,19/08/2026,Beauty & Fragrance,Instagram,Ajman,Growth,2,474,176.0,0.56,0.06,0.945,5,1,9,,5.1,4959.0,0
+S0290,14/10/2024,Beauty & Fragrance,TikTok,Dubai,GROWTH ,4,170,209.0,0.5,0.05,0.919,4,0,10,2.1,6.0,2375.0,No
+S0079,05/08/2026,Accessories & Gadgets,TikTok,Sharjah,Starter,1,77,118.0,0.6,0.067,0.934,3,1,12,3.5,3.8,1050.0,N
+S0092,04/03/2026,Accessories & Gadgets,TikTok,Abu Dhabi,Growth,3,343,62.0,0.85,0.07,0.913,3,0,14,2.8,3.4,4139.0,N
+S0184,06/06/2025,Modest Fashion,Instagram,Dubai,Growth,2,243,315.0,0.95,0.131,0.965,4,3,8,1.4,7.1,"AED 3,024",No
+S0324,06/12/2025,Accessories & Gadgets,Instagram + TikTok,Dubai,Pro,10,642,104.0,0.48,0.045,0.903,7,0,21,4.1,,7226.0,No
+S0268,2024-10-11,Beauty & Fragrance,Instagram + TikTok,Sharjah,Pro,6,1058,236.0,0.7,0.007,0.895,5,1,19,4.3,2.6,12917.0,0
+S0191,2026-08-05,Packaged Food,Instagram + TikTok,AUH,Starter,1,59,60.0,0.77,0.027,0.904,2,0,2,2.5,4.8,664.0,0
+S0017,17/07/2025,Accessories & Gadgets,Instagram,Abu Dhabi,Growth,2,406,,0.7,0.059,0.869,5,1,12,3.0,4.3,4960.0,0
+S0110,06/07/2026,Packaged Food,Instagram,Dubai,Starter,1,52,82.0,0.54,0.014,0.95,1,3,6,3.3,5.3,AED 778,yes
+S0357,16/12/2024,Home & Gifting,Instagram,Dubai,Growth,3,181,201.0,0.88,0.063,0.957,3,3,7,3.3,5.6,2430.0,N
+S0136,2024-10-25,Beauty & Fragrance,Instagram,Dubai,Starter,1,123,196.0,0.41,0.065,0.882,3,1,24,4.2,3.6,1487.0,0
+S0246,2026-09-14,Home & Gifting,Instagram+TikTok,Dubai,Pro,7,606,137.0,0.56,0.039,0.969,5,3,10,3.2,5.7,"AED 7,837",No
+S0275,2024-11-06,Accessories & Gadgets,TikTok,Ajman,Growth,4,367,123.0,0.95,0.031,0.955,6,0,6,2.6,4.7,4555.0,N
+S0148,2025-07-25,accessories and gadgets,Instagram,sharjah,Growth,2,252,40.0,0.73,0.076,0.955,5,0,17,2.3,6.7,2386.0,0
+S0106,2026-07-12,Accessories & Gadgets,WhatsApp,Sharjah,Growth,4,219,47.0,0.45,0.084,0.934,3,4,4,2.6,5.8,3683.0,0
+S0295,27/11/2024,Home & Gifting,Instagram+TikTok,,Growth,3,242,175.0,0.75,0.054,0.932,0,2,5,2.3,6.5,"AED 3,544",No
+S0325,21/03/2025,Home & Gifting,Instagram,Dubai,Growth,4,166,142.0,0.66,0.042,0.933,3,4,12,2.6,3.9,2451.0,0
+S0259,10/05/2025,Beauty & Fragrance,TikTok,Dubai,Growth,3,348,128.0,0.52,1.9,0.911,3,2,14,2.8,4.6,4432.0,1
+S0288,11/08/2025,Modest Fashion,Instagram+TikTok,Sharjah,Pro,5,654,209.0,0.69,0.125,0.926,2,0,0,1.7,5.4,8710.0,0
+S0396,2024-12-22,Modest Fashion,Instagram,Dubai,Growth,4,477,173.0,0.42,0.121,0.919,5,3,21,2.8,4.4,5761.0,0
+S0180,2025-08-08,Home & Gifting,Instagram,Dubai,Pro,8,863,135.0,0.6,0.039,0.949,7,2,1,,6.2,"AED 11,190",No
+S0362,23/11/2025,Beauty & Fragrance,Instagram,Sharjah,Starter,1,80,180.0,0.84,0.037,0.961,2,1,6,3.2,6.0,AED 880,0
+S0165,10/11/2025,Accessories & Gadgets,TikTok,Abu Dhabi,Growth,3,174,85.0,0.44,0.035,0.956,0,1,22,4.0,5.7,2578.0,No
+S0111,17/05/2026,Modest Fashion,Instagram,Sharjah,Growth,3,241,301.0,0.62,0.12,1.0,5,3,2,4.0,6.9,2759.0,N
+S0257,2026-08-15,Home & Gifting,Instagram+TikTok,Abu Dhabi,Pro,6,1200,197.0,0.55,0.049,0.899,5,3,24,4.3,5.3,"AED 13,875",0
+S0315,2025-09-09,Modest Fashion,WhatsApp,Abu Dhabi,Growth,4,210,261.0,0.69,0.104,0.935,4,2,0,2.9,6.8,3107.0,No
+S0006,21/02/2025,Packaged Food,Instagram+TikTok,Dubai,Growth,4,379,67.0,0.65,0.0,0.928,2,3,9,3.1,5.4,4598.0,0
+S0145,2025-02-18,Modest Fashion,Instagram,SHJ,Growth,3,237,244.0,0.47,0.132,0.954,5,0,10,3.9,5.6,2973.0,0
+S0104,29/07/2026,Packaged Food,TikTok,Dubai,Growth,4,307,91.0,0.57,0.007,0.921,5,0,9,1.0,5.6,4651.0,0
+S0211,2024-10-15,Accessories & Gadgets,TikTok,Sharjah,Growth,3,303,117.0,0.5,0.067,0.997,4,3,10,3.4,7.3,4148.0,0
+S0042,03/09/2026,Home & Gifting,Instagram,Sharjah,Growth,3,158,145.0,0.79,0.026,0.894,4,5,0,4.6,2.3,2852.0,1
+S0363,2026-01-10,Beauty & Fragrance,Instagram,Ajman,Starter,1,99999,232.0,0.87,0.027,0.948,4,1,20,2.4,4.8,1552.0,0
+S0138,27/10/2025,Modest Fashion,Instagram,Dubai,Starter,1,99,323.0,0.59,0.139,0.919,5,0,11,3.6,4.0,1353.0,N
+S0378,11/12/2024,Modest Fashion,Instagram,Dubai,GROWTH ,4,248,273.0,0.78,0.082,1.0,4,0,11,1.8,7.9,3553.0,No
+S0255,2025-01-26,Beauty & Fragrance,Instagram + TikTok,Dubai,Growth,3,165,161.0,0.39,0.029,0.928,3,1,8,2.0,5.7,"AED 2,178",N
+S0147,2025-02-26,Modest Fashion,Instagram, Dubai,Starter,1,52,214.0,0.43,0.11,0.983,5,2,2,2.9,6.0,1030.0,0
+S0126,2026-02-22,Modest Fashion,Instagram,Dubai,Starter,1,122,324.0,0.78,0.111,0.91,2,1,8,4.6,,"AED 1,406",1
+S0087,14/04/2026,Home & Gifting,TikTok,Dubai,Pro,7,1200,126.0,0.59,0.048,0.932,16,3,11,4.5,4.0,16201.0,Y
+S0031,2026-06-23,home and gifting,Instagram+TikTok,Sharjah,Starter,1,126,151.0,0.75,0.041,0.947,1,3,5,4.1,5.1,1891.0,0
+S0066,2026-05-21,accessories and gadgets,WhatsApp,Abu Dhabi,Starter,1,106,92.0,0.5,0.035,0.93,7,0,12,2.2,5.2,1190.0,No
+S0204,2025-08-25,Beauty & Fragrance,WhatsApp,Dubai,Starter,1,102,224.0,0.71,0.011,0.953,3,0,3,2.1,4.6,"AED 1,583",1
+S0206,2025-03-21,Beauty & Fragrance,WhatsApp,Dubai,Growth,3,166,237.0,0.5,0.039,0.959,1,1,11,2.8,6.7,2094.0,No
+S0045,12/07/2025,Home & Gifting,Instagram,Dubai,Growth,2,164,126.0,0.76,0.043,0.91,2,3,14,1.8,5.1,2249.0,N
+S0028,09/12/2025,Beauty & Fragrance,Instagram + TikTok, Dubai,Starter,1,101,113.0,0.59,0.036,1.0,1,2,19,,8.3,"AED 1,388",0
+S0081,2025-06-15,accessories and gadgets,Instagram,Dubai,Growth,2,155,71.0,0.78,0.07,0.951,2,2,8,3.1,7.0,"AED 2,453",No
+S0114,20/03/2025,accessories and gadgets,Instagram,Abu Dhabi,Starter,1,45,57.0,0.6,0.102,0.987,4,0,7,3.5,,957.0,0
+S0205,10/03/2025,Beauty & Fragrance,Instagram+TikTok,SHJ,Starter,1,99999,237.0,0.73,0.026,0.897,3,1,21,3.9,3.3,1768.0,0
+S0008,17/04/2025,Home & Gifting,Instagram+TikTok,Dubai,Pro,7,789,189.0,0.8,0.056,0.939,2,2,12,5.0,5.3,8613.0,No
+S0209,05/09/2025,Beauty & Fragrance,WhatsApp,Sharjah,Growth,3,453,,0.73,0.054,0.923,5,3,12,3.6,4.0,5690.0,N
+S0159,2026-09-10,Home & Gifting,TikTok,DXB,Growth,3,159,152.0,0.43,0.066,0.973,3,3,9,3.0,5.6,1868.0,0
+S0113,2024-10-04,Modest Fashion,Instagram,Abu Dhabi,Growth,4,293,249.0,0.56,0.129,0.854,6,0,9,4.8,,"AED 3,780",1
+S0232,29/05/2025,Modest Fashion,Instagram+TikTok,sharjah,Starter,1,87,176.0,0.6,0.1,0.889,8,1,15,2.9,3.5,1021.0,Y
+S0229,06/07/2025,Accessories & Gadgets,TikTok,Sharjah,Starter,1,118,81.0,0.76,0.071,0.928,5,1,12,3.2,,1890.0,0
+S0009,28/10/2025,Beauty & Fragrance,Instagram,Dubai,Pro,6,673,203.0,0.85,0.025,0.893,3,1,22,3.8,3.7,7264.0,0
+S0074,29/05/2026,Beauty & Fragrance,Instagram,Dubai,Starter,1,60,259.0,0.48,0.023,1.0,2,1,12,2.6,5.3,818.0,0
+S0377,2025-09-07,Packaged Food,TikTok,Dubai,Starter,1,84,83.0,0.73,1.9,0.958,2,0,7,3.0,5.2,1168.0,1
+S0119,2026-06-07,Modest Fashion,Instagram,Dubai,Growth,2,-511,307.0,0.67,0.135,0.952,4,1,11,2.4,4.8,2133.0,yes
+S0190,2026-01-12,Beauty & Fragrance,Instagram,Sharjah,GROWTH ,2,324,209.0,0.75,0.032,0.919,4,3,23,2.2,3.9,"AED 4,003",0
+S0207,24/09/2025,beauty and fragrance,Instagram+TikTok,Abu Dhabi,Starter,1,100,144.0,0.36,0.051,0.935,0,1,14,2.6,5.0,1542.0,0
+S0356,2025-01-27,Accessories & Gadgets,Instagram,Dubai,Growth,4,315,79.0,0.53,0.05,0.949,4,0,11,2.1,6.3,4421.0,No
